@@ -1,3 +1,6 @@
+# Customization for Juni
+- remove all but the normal font from svg/fonts (reduce imports and bundle size for browser)
+
 # MathJax (Source Repository)
 
 ![GitHub release version](https://img.shields.io/github/v/release/mathjax/MathJax-src.svg?sort=semver)
